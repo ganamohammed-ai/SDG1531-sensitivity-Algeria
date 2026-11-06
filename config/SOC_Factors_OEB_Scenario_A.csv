@@ -1,0 +1,9 @@
+﻿class_code,class_name,relative_soc_factor,low,high,factor_type,confidence,source,link_to
+5,Agriculture,0.76,0.669,0.851,ipcc,medium,"IPCC 2019 Refinement to the 2006 IPCC Guidelines, Vol.4, Ch.5, Table 5.5 (Updated), p.5.27 : FLU culture de longue durée (long-term cultivated), Warm Temperate, Dry = 0.76 ±12 %. Bornes = 0.76 × (1 ∓ 0.12). Valeur retrouvée dans le texte publié du GIEC (extrait consulté le 2026-10-16) ; à confirmer sur le PDF officiel (numéro de page) avant publication.",
+6,Jachère,0.76,0.669,0.851,ipcc,medium,"IPCC 2006 Guidelines, Vol.4, Ch.5, section 5.1 : les terres cultivées incluent la jachère temporaire (terre mise au repos une ou plusieurs années avant d'être recultivée) : même système que Cropland. Citation reprise du brouillon de l'utilisateur, à confirmer (page).",5
+7,Forêt,1.0,1.0,1.0,ipcc,medium,"IPCC 2019 Refinement, Vol.4, Ch.5 §5.3.3.2 et Ch.6 §6.3.3.2 : pour les terres non gérées et les forêts gérées, les établissements et les prairies nominalement gérées, les stocks de COS sont supposés égaux aux valeurs de référence (facteurs = 1) au niveau 1. Valeur retrouvée dans le texte publié du GIEC (extrait consulté le 2026-10-16) ; à confirmer sur le PDF officiel (numéro de page) avant publication.",
+8,Parcours,1.0,0.9,1.0,ipcc,low,"IPCC 2019 Refinement, Vol.4, Ch.6, Table 6.2 (Updated) : FLU prairie native / permanente en état nominal = 1.0 ; FMG pâturage nominal (faible ou moyenne intensité) = 1.00 ; FMG pâturage de forte intensité = 0.90 ±8 % ; FMG sévèrement dégradé = 0.7 ±40 %. Valeur retrouvée dans le texte publié du GIEC (extrait consulté le 2026-10-16) ; à confirmer sur le PDF officiel (numéro de page) avant publication.",
+1,Bâti,,,,,,NON DOCUMENTÉ - non estimable,
+2,Eau,,,,,,NON DOCUMENTÉ - non estimable,
+3,Sebkha,,,,,,NON DOCUMENTÉ - non estimable,
+4,Sol nu,,,,,,NON DOCUMENTÉ - non estimable,

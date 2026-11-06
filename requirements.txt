@@ -1,0 +1,8 @@
+# Tables in 10_tables (standalone Python 3)
+pandas>=2.0
+numpy>=1.26
+tifffile>=2023.1
+xlsxwriter>=3.0
+# Processing scripts run inside QGIS 3.44 (bundled Python 3.12, GDAL 3.13, NumPy 1.26).
+# Some of them also need, inside the QGIS Python environment:
+#   scikit-learn (02_land_cover/03a, random-forest classification), scipy, matplotlib, openpyxl, Pillow
