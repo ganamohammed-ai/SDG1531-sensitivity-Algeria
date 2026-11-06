@@ -3,14 +3,33 @@ message: "If you use this code, please cite the article and the archived code."
 title: "SDG 15.3.1 sensitivity analysis — Oum El Bouaghi and Saïda (Algeria)"
 version: 1.0.0
 license: MIT
+repository-code: "https://github.com/ganamohammed-ai/SDG1531-sensitivity-Algeria"
 authors:
   - family-names: Gana
     given-names: Mohamed
-    affiliation: "University of Constantine 1, Algeria"
-    orcid: "https://orcid.org/{{0000-0000-0000-0000}}"
-  # add the co-authors in the order of the article
-doi: "10.5281/zenodo.{{YYYYYYY}}"
+    email: gana.mohammed@umc.edu.dz
+    orcid: "https://orcid.org/0000-0003-0775-6954"
+    affiliation: "Université des Frères Mentouri – Constantine 1, Algeria"
+  - family-names: Meliani
+    given-names: Aziz
+    email: aziz.meliani@umc.edu.dz
+    affiliation: "Université des Frères Mentouri – Constantine 1, Algeria"
+  - family-names: Alatou
+    given-names: Hana
+    email: hana.alatou@umc.edu.dz
+    affiliation: "Université des Frères Mentouri – Constantine 1, Algeria"
 keywords: [SDG 15.3.1, land degradation, land productivity dynamics, rainfall adjustment, sensitivity analysis, Algeria]
+references:
+  - type: dataset
+    title: "Data for: How much does the analyst decide? Sensitivity of the SDG 15.3.1 land degradation indicator to rainfall adjustment and design choices in two semi-arid Algerian provinces"
+    authors:
+      - family-names: Gana
+        given-names: Mohamed
+      - family-names: Meliani
+        given-names: Aziz
+      - family-names: Alatou
+        given-names: Hana
+    doi: "10.5281/zenodo.24020296"
 preferred-citation:
   type: article
   title: "How much does the analyst decide? Sensitivity of the SDG 15.3.1 land degradation indicator to rainfall adjustment and design choices in two semi-arid Algerian provinces"
@@ -18,5 +37,8 @@ preferred-citation:
   authors:
     - family-names: Gana
       given-names: Mohamed
-  year: "{{Year}}"
-  doi: "{{article DOI}}"
+    - family-names: Meliani
+      given-names: Aziz
+    - family-names: Alatou
+      given-names: Hana
+  year: 2026

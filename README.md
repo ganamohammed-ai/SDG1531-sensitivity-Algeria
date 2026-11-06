@@ -2,12 +2,12 @@
 
 Code for the article:
 
-> {{Authors}} ({{Year}}). How much does the analyst decide? Sensitivity of the SDG 15.3.1 land degradation
+> Gana, M., Meliani, A., Alatou, H. (2026). How much does the analyst decide? Sensitivity of the SDG 15.3.1 land degradation
 > indicator to rainfall adjustment and design choices in two semi-arid Algerian provinces.
-> *Arid Land Research and Management*, {{volume, pages, DOI}}.
+> Submitted to *Arid Land Research and Management*.
 
-Data (processed layers and result tables): Zenodo, https://doi.org/10.5281/zenodo.{{XXXXXXX}}
-Archived version of this code: https://doi.org/10.5281/zenodo.{{YYYYYYY}}
+Data (processed layers and result tables): Zenodo, https://doi.org/10.5281/zenodo.24020296
+Archived version of this code: Zenodo DOI to be added with release v1.0.0.
 
 The workflow computes the three SDG 15.3.1 sub-indicators (land cover, land productivity, soil organic carbon),
 integrates them with the one-out-all-out rule and repeats the computation for 96 scenarios per province
